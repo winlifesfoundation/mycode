@@ -1,3 +1,4 @@
+Prg to count no of chars in java
 package InterviewPrgs;
 import java.util.*;
 import java.util.Map.Entry;
